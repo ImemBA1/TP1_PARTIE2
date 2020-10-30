@@ -18,5 +18,6 @@ export class Entreprise extends Client{
         this.adresse = undefined;
         this.contact = new Contact;
         this.detailsEntreprise = new Details;
+        this.droits = undefined;
     }
 }

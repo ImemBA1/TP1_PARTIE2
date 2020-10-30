@@ -16,5 +16,6 @@ export class Individu extends Client{
         this.nom= undefined;
         this.email = undefined;
         this.detailsIndiv = new Details;
+        this.droits = undefined;
     }
 }

@@ -10,6 +10,6 @@ export class Produit{
         this.id = undefined;
         this.nom = undefined;
         this.description = undefined;
-        this.optionProd = undefined;
+        this.optionProd = new Option;
     }
 }

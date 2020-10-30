@@ -8,8 +8,8 @@ export class Client{
     droits:Array<Droit>;
 
     constructor(){
-        this.id= undefined;
-        this.type= undefined;
+        this.id = undefined;
+        this.type = undefined;
         this.adresse = undefined;
         this.droits = undefined;
     }
