@@ -1,8 +1,8 @@
 
 Convertir les objets
+--LISTER LES CLASSES
 
-
-Liste des classes
+1-Liste des classes
 
 public class Droit 
 public class Client 
@@ -14,18 +14,18 @@ public class Contact
 public class Option 
 public class Produit
 
-Liste des énumérations
+2-Liste des énumérations
 
 public enum ClientType
 public enum DroitType
 
-Traduction des realtions et du poids de chacune
+-- Traduction des realtions et du poids de chacune
 
 CLIENT        ASSOCIATION     DROIT (1 *)
 CLIENT        ASSOCIATION     CODEBARRE (1 1)
 CODEBARRE     ASSOCIATION     PRODUIT (1 *)
 CODEBARRE     ASSOCIATION     OPTION (1 *)
-DROIT         ASSOCIATION     PRODUIT (* *)
+DROIT         ASSOCIATION     PRODUIT (* *)     /!\
 
 OPTION        AGGREGATION        PRODUIT 
 
@@ -37,6 +37,14 @@ CONTACT       COMPOSITION     ENTREPRISE
 ENTREPRISE    HERITAGE        CLIENT
 INDIVIDU      HERITAGE        CLIENT
 
+
+
+-- REMARQUES
+
+ajout d'une classe pour la relation (* *) produitDroit
+
+impossible de lié produit à produit (COMPOSITION) car on tombe dans une boucle infinie,
+constructeur qui appelle le même constructeur.
 
  
  
