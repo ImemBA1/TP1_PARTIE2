@@ -1,0 +1,42 @@
+
+Convertir les objets
+
+
+Liste des classes
+
+public class Droit 
+public class Client 
+public class Individu
+public class Entreprise
+public class CodeBarre
+public class Details
+public class Contact
+public class Option 
+public class Produit
+
+Liste des énumérations
+
+public enum ClientType
+public enum DroitType
+
+Traduction des realtions et du poids de chacune
+
+CLIENT        ASSOCIATION     DROIT (1 *)
+CLIENT        ASSOCIATION     CODEBARRE (1 1)
+CODEBARRE     ASSOCIATION     PRODUIT (1 *)
+CODEBARRE     ASSOCIATION     OPTION (1 *)
+DROIT         ASSOCIATION     PRODUIT (* *)
+
+OPTION        AGGREGATION        PRODUIT 
+
+DETAILS       COMPOSITION     INDIVIDU
+DETAILS       COMPOSITION     ENTREPRISE
+PRODUIT       COMPOSITION     PRODUIT
+CONTACT       COMPOSITION     ENTREPRISE
+
+ENTREPRISE    HERITAGE        CLIENT
+INDIVIDU      HERITAGE        CLIENT
+
+
+ 
+ 
