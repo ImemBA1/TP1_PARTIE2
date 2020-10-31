@@ -1,0 +1,477 @@
+[
+	{
+		"id": 0,
+		"type": 0,
+		"adresse": "68692 Hayes Lake",
+		"droits": [
+			{
+				"idDroit": "0",
+				"type": 2,
+				"dateDebut": "2020-09-16T09:58:07.353Z",
+				"dateFin": "2021-02-15T18:38:59.224Z"
+			},
+			{
+				"idDroit": "1",
+				"type": 0,
+				"dateDebut": "2020-02-15T23:05:36.628Z",
+				"dateFin": "2020-12-19T01:22:46.989Z"
+			},
+			{
+				"idDroit": "2",
+				"type": 1,
+				"dateDebut": "2020-09-11T10:43:16.131Z",
+				"dateFin": "2021-07-26T01:30:02.459Z"
+			},
+			{
+				"idDroit": "3",
+				"type": 2,
+				"dateDebut": "2020-02-23T01:32:51.875Z",
+				"dateFin": "2020-12-31T02:29:43.306Z"
+			},
+			{
+				"idDroit": "4",
+				"type": 0,
+				"dateDebut": "2019-12-28T09:35:53.564Z",
+				"dateFin": "2021-04-27T23:49:10.045Z"
+			}
+		],
+		"prenom": "Jany",
+		"nom": "Hoeger",
+		"email": "Aisha_Jast@hotmail.com",
+		"detailsIndiv": {
+			"rue": "Kiera Mountain",
+			"ville": "Hegmannside",
+			"province": "Yemen"
+		}
+	},
+	{
+		"id": 1,
+		"type": 0,
+		"adresse": "930 Harber Run",
+		"droits": [
+			{
+				"idDroit": "0",
+				"type": 2,
+				"dateDebut": "2019-11-02T19:01:15.231Z",
+				"dateFin": "2021-10-06T10:29:34.270Z"
+			},
+			{
+				"idDroit": "1",
+				"type": 0,
+				"dateDebut": "2020-05-08T20:10:19.920Z",
+				"dateFin": "2021-10-08T03:54:52.221Z"
+			},
+			{
+				"idDroit": "2",
+				"type": 1,
+				"dateDebut": "2020-03-30T03:40:33.065Z",
+				"dateFin": "2021-10-23T07:42:42.370Z"
+			},
+			{
+				"idDroit": "3",
+				"type": 2,
+				"dateDebut": "2019-12-13T11:52:43.074Z",
+				"dateFin": "2021-04-22T17:12:58.845Z"
+			},
+			{
+				"idDroit": "4",
+				"type": 0,
+				"dateDebut": "2020-07-28T19:09:05.989Z",
+				"dateFin": "2021-04-29T18:16:44.984Z"
+			}
+		],
+		"prenom": "Lorenza",
+		"nom": "Bergnaum",
+		"email": "Josh78@hotmail.com",
+		"detailsIndiv": {
+			"rue": "Rupert Burgs",
+			"ville": "Lake Magdalenhaven",
+			"province": "Turkey"
+		}
+	},
+	{
+		"id": 2,
+		"type": 0,
+		"adresse": "610 Kris Lake",
+		"droits": [
+			{
+				"idDroit": "0",
+				"type": 2,
+				"dateDebut": "2020-04-16T13:40:12.999Z",
+				"dateFin": "2021-07-28T09:54:24.766Z"
+			},
+			{
+				"idDroit": "1",
+				"type": 0,
+				"dateDebut": "2020-01-03T10:53:13.435Z",
+				"dateFin": "2021-01-03T23:15:06.356Z"
+			},
+			{
+				"idDroit": "2",
+				"type": 1,
+				"dateDebut": "2019-12-10T15:49:47.638Z",
+				"dateFin": "2021-02-08T15:58:03.601Z"
+			},
+			{
+				"idDroit": "3",
+				"type": 2,
+				"dateDebut": "2020-07-19T01:35:51.423Z",
+				"dateFin": "2020-11-15T17:08:36.815Z"
+			},
+			{
+				"idDroit": "4",
+				"type": 0,
+				"dateDebut": "2019-11-23T19:59:34.540Z",
+				"dateFin": "2021-03-20T12:18:10.267Z"
+			}
+		],
+		"prenom": "Matteo",
+		"nom": "Rosenbaum",
+		"email": "Mckayla.Wiza@yahoo.com",
+		"detailsIndiv": {
+			"rue": "Ledner Springs",
+			"ville": "Hayesbury",
+			"province": "Kenya"
+		}
+	},
+	{
+		"id": 3,
+		"type": 0,
+		"adresse": "0712 Haley Parks",
+		"droits": [
+			{
+				"idDroit": "0",
+				"type": 2,
+				"dateDebut": "2020-04-19T20:37:24.599Z",
+				"dateFin": "2020-11-19T12:17:14.826Z"
+			},
+			{
+				"idDroit": "1",
+				"type": 0,
+				"dateDebut": "2020-07-06T12:04:40.688Z",
+				"dateFin": "2021-05-10T14:30:25.974Z"
+			},
+			{
+				"idDroit": "2",
+				"type": 1,
+				"dateDebut": "2020-05-04T18:41:58.008Z",
+				"dateFin": "2021-01-21T00:35:15.709Z"
+			},
+			{
+				"idDroit": "3",
+				"type": 2,
+				"dateDebut": "2020-07-17T11:26:00.489Z",
+				"dateFin": "2021-08-16T15:06:19.573Z"
+			},
+			{
+				"idDroit": "4",
+				"type": 0,
+				"dateDebut": "2020-03-21T21:18:15.855Z",
+				"dateFin": "2021-06-28T16:14:42.177Z"
+			}
+		],
+		"prenom": "Curt",
+		"nom": "Kiehn",
+		"email": "Lenny58@gmail.com",
+		"detailsIndiv": {
+			"rue": "Audrey Run",
+			"ville": "Gerryhaven",
+			"province": "Cuba"
+		}
+	},
+	{
+		"id": 4,
+		"type": 0,
+		"adresse": "219 Ruth Point",
+		"droits": [
+			{
+				"idDroit": "0",
+				"type": 2,
+				"dateDebut": "2020-01-07T02:29:27.898Z",
+				"dateFin": "2021-03-25T08:11:04.981Z"
+			},
+			{
+				"idDroit": "1",
+				"type": 0,
+				"dateDebut": "2020-07-12T15:11:27.865Z",
+				"dateFin": "2021-01-15T14:25:40.122Z"
+			},
+			{
+				"idDroit": "2",
+				"type": 1,
+				"dateDebut": "2020-05-31T18:28:58.094Z",
+				"dateFin": "2021-04-14T03:10:22.154Z"
+			},
+			{
+				"idDroit": "3",
+				"type": 2,
+				"dateDebut": "2020-01-12T14:07:05.326Z",
+				"dateFin": "2021-06-16T21:33:50.532Z"
+			},
+			{
+				"idDroit": "4",
+				"type": 0,
+				"dateDebut": "2020-07-09T23:32:36.536Z",
+				"dateFin": "2021-07-14T02:58:03.240Z"
+			}
+		],
+		"prenom": "Concepcion",
+		"nom": "Turner",
+		"email": "Jaquelin_Kautzer80@gmail.com",
+		"detailsIndiv": {
+			"rue": "Chesley Junctions",
+			"ville": "Port Luciano",
+			"province": "Nepal"
+		}
+	},
+	{
+		"id": 0,
+		"type": 1,
+		"adresse": "938 Maximilian Mill",
+		"droits": [
+			{
+				"idDroit": "0",
+				"type": 2,
+				"dateDebut": "2020-01-24T08:19:54.515Z",
+				"dateFin": "2020-11-07T00:16:23.369Z"
+			},
+			{
+				"idDroit": "1",
+				"type": 0,
+				"dateDebut": "2020-08-14T21:14:20.169Z",
+				"dateFin": "2021-03-20T03:20:38.315Z"
+			},
+			{
+				"idDroit": "2",
+				"type": 1,
+				"dateDebut": "2020-03-09T15:15:11.112Z",
+				"dateFin": "2021-07-31T03:54:23.873Z"
+			},
+			{
+				"idDroit": "3",
+				"type": 2,
+				"dateDebut": "2020-03-30T00:42:12.926Z",
+				"dateFin": "2021-01-07T17:49:30.298Z"
+			},
+			{
+				"idDroit": "4",
+				"type": 0,
+				"dateDebut": "2020-02-19T21:01:32.782Z",
+				"dateFin": "2021-10-21T21:20:38.692Z"
+			}
+		],
+		"nom": "Bogisich and Sons",
+		"phone": "687-989-0153",
+		"fax": "Felicity55@yahoo.com",
+		"contact": {
+			"prenom": "Nathaniel",
+			"nom": "Williamson",
+			"email": "Rodger82@yahoo.com"
+		},
+		"detailsEntreprise": {
+			"rue": "Ferry Row",
+			"ville": "North Forreststad",
+			"province": "Guyana"
+		}
+	},
+	{
+		"id": 1,
+		"type": 1,
+		"adresse": "008 Ewell Isle",
+		"droits": [
+			{
+				"idDroit": "0",
+				"type": 2,
+				"dateDebut": "2020-07-29T07:44:16.348Z",
+				"dateFin": "2021-06-28T22:02:17.111Z"
+			},
+			{
+				"idDroit": "1",
+				"type": 0,
+				"dateDebut": "2020-08-31T06:52:45.121Z",
+				"dateFin": "2021-08-03T09:23:07.113Z"
+			},
+			{
+				"idDroit": "2",
+				"type": 1,
+				"dateDebut": "2020-02-18T04:02:48.172Z",
+				"dateFin": "2021-02-04T04:12:41.075Z"
+			},
+			{
+				"idDroit": "3",
+				"type": 2,
+				"dateDebut": "2020-09-10T14:54:32.540Z",
+				"dateFin": "2021-02-04T14:26:47.657Z"
+			},
+			{
+				"idDroit": "4",
+				"type": 0,
+				"dateDebut": "2020-02-23T08:28:04.154Z",
+				"dateFin": "2020-11-19T19:36:09.048Z"
+			}
+		],
+		"nom": "Kilback, Lebsack and Erdman",
+		"phone": "(740) 986-4398 x4548",
+		"fax": "Camilla.Beer38@yahoo.com",
+		"contact": {
+			"prenom": "Giovanni",
+			"nom": "Daniel",
+			"email": "Grant.Powlowski51@gmail.com"
+		},
+		"detailsEntreprise": {
+			"rue": "Hettinger Parkways",
+			"ville": "South Cecelia",
+			"province": "Vietnam"
+		}
+	},
+	{
+		"id": 2,
+		"type": 1,
+		"adresse": "7937 Douglas Mall",
+		"droits": [
+			{
+				"idDroit": "0",
+				"type": 2,
+				"dateDebut": "2020-06-07T17:54:49.248Z",
+				"dateFin": "2021-07-11T04:07:30.489Z"
+			},
+			{
+				"idDroit": "1",
+				"type": 0,
+				"dateDebut": "2020-07-31T05:23:29.650Z",
+				"dateFin": "2021-07-07T03:41:48.387Z"
+			},
+			{
+				"idDroit": "2",
+				"type": 1,
+				"dateDebut": "2020-06-05T23:19:59.865Z",
+				"dateFin": "2020-11-10T19:34:02.679Z"
+			},
+			{
+				"idDroit": "3",
+				"type": 2,
+				"dateDebut": "2020-09-15T16:51:05.161Z",
+				"dateFin": "2021-09-08T17:17:02.116Z"
+			},
+			{
+				"idDroit": "4",
+				"type": 0,
+				"dateDebut": "2020-07-28T19:54:34.767Z",
+				"dateFin": "2021-08-03T11:35:18.723Z"
+			}
+		],
+		"nom": "Boyle - Koelpin",
+		"phone": "1-426-616-3193 x36927",
+		"fax": "Kenton.Christiansen@yahoo.com",
+		"contact": {
+			"prenom": "Quentin",
+			"nom": "Corwin",
+			"email": "Juston.Rice78@hotmail.com"
+		},
+		"detailsEntreprise": {
+			"rue": "Barrows Route",
+			"ville": "East Aaliyahberg",
+			"province": "Monaco"
+		}
+	},
+	{
+		"id": 3,
+		"type": 1,
+		"adresse": "386 Madonna Plaza",
+		"droits": [
+			{
+				"idDroit": "0",
+				"type": 2,
+				"dateDebut": "2020-05-03T02:42:59.418Z",
+				"dateFin": "2021-10-09T14:37:22.612Z"
+			},
+			{
+				"idDroit": "1",
+				"type": 0,
+				"dateDebut": "2020-02-10T03:27:02.390Z",
+				"dateFin": "2021-08-29T19:59:37.025Z"
+			},
+			{
+				"idDroit": "2",
+				"type": 1,
+				"dateDebut": "2020-03-22T10:03:13.008Z",
+				"dateFin": "2021-03-29T19:03:09.579Z"
+			},
+			{
+				"idDroit": "3",
+				"type": 2,
+				"dateDebut": "2020-03-29T03:45:54.692Z",
+				"dateFin": "2021-07-17T07:00:50.081Z"
+			},
+			{
+				"idDroit": "4",
+				"type": 0,
+				"dateDebut": "2020-01-12T03:56:47.816Z",
+				"dateFin": "2021-09-04T15:05:11.001Z"
+			}
+		],
+		"nom": "Johnston - Roberts",
+		"phone": "(686) 436-5806 x980",
+		"fax": "Alexander.Jakubowski@hotmail.com",
+		"contact": {
+			"prenom": "Maynard",
+			"nom": "Johnson",
+			"email": "Justine.Haley@gmail.com"
+		},
+		"detailsEntreprise": {
+			"rue": "Champlin Loop",
+			"ville": "Port Jamey",
+			"province": "Nauru"
+		}
+	},
+	{
+		"id": 4,
+		"type": 1,
+		"adresse": "498 McKenzie Parks",
+		"droits": [
+			{
+				"idDroit": "0",
+				"type": 2,
+				"dateDebut": "2019-12-10T01:29:15.459Z",
+				"dateFin": "2021-01-22T17:16:01.489Z"
+			},
+			{
+				"idDroit": "1",
+				"type": 0,
+				"dateDebut": "2020-03-05T07:03:30.523Z",
+				"dateFin": "2021-02-20T08:39:14.399Z"
+			},
+			{
+				"idDroit": "2",
+				"type": 1,
+				"dateDebut": "2020-06-12T22:52:27.033Z",
+				"dateFin": "2021-06-18T11:47:39.351Z"
+			},
+			{
+				"idDroit": "3",
+				"type": 2,
+				"dateDebut": "2020-02-21T21:04:57.573Z",
+				"dateFin": "2021-10-23T14:49:02.484Z"
+			},
+			{
+				"idDroit": "4",
+				"type": 0,
+				"dateDebut": "2020-08-19T13:40:38.490Z",
+				"dateFin": "2020-11-05T17:29:52.722Z"
+			}
+		],
+		"nom": "Dach, Stokes and Kub",
+		"phone": "436-370-5931 x77628",
+		"fax": "Bobbie.Bednar@gmail.com",
+		"contact": {
+			"prenom": "Jalyn",
+			"nom": "Mitchell",
+			"email": "Rubie.Dickinson@hotmail.com"
+		},
+		"detailsEntreprise": {
+			"rue": "Deondre Views",
+			"ville": "Blockview",
+			"province": "Turks and Caicos Islands"
+		}
+	}
+]

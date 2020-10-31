@@ -13,8 +13,8 @@ import { ProduitDroit } from "./produitDroit";
 const faker = require("faker");
 const fs = require("fs");
 
-fs.writeFileSync('../json/DATABASE.json', JSON.stringify(addClientAll(), null, '\t'));
-fs.writeFileSync('../json/DATABASE.json', JSON.stringify(addDataProduitDroit(), null, '\t'));
+fs.writeFileSync('../json/ClientsDataBase.json', JSON.stringify(addClientAll(), null, '\t'));
+fs.writeFileSync('../json/ProduitsDroitsDataBase.json', JSON.stringify(addDataProduitDroit(), null, '\t'));
 
 function addDataClientIndiv(){
     var clientIndiv:Individu;
@@ -70,7 +70,6 @@ function addDataClient(){
         client = new Client
         client.id = index;
         client.adresse = faker.address.streetAddress();
-        var droitTab:Array<Droit>;
         client.droits = addDataDroits();
     }
     return clientTab;
@@ -91,7 +90,7 @@ function addDataDroits(){
 
     for (let index = 0; index <= 4; index++) {
         droit = new Droit;
-        droit.idDroit = faker.random.number;
+        droit.idDroit = index.toString() ;
         droit.dateDebut = faker.date.past();
         droit.dateFin = faker.date.future();
         if (index % 3 == 0)
