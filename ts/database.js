@@ -121,7 +121,7 @@ function addDataProduitDroit() {
         produitDroit.droit = droitsTab[Math.floor(Math.random() * Math.floor(5))];
         produitsDroitsTab.push(produitDroit);
     }
-    return produitsDroitsTab;
+    return { "DroitsProduits": produitsDroitsTab };
 }
 function addClientAll() {
     var allClient = new Array;
@@ -141,5 +141,5 @@ function addClientAll() {
         allClient[compteur] = Clients[i];
         compteur++;
     }
-    return allClient;
+    return { "Clients": allClient };
 }

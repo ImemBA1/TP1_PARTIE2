@@ -134,7 +134,7 @@ function addDataProduitDroit(){
         produitDroit.droit = droitsTab[Math.floor(Math.random() * Math.floor(5))];
         produitsDroitsTab.push(produitDroit);
     }
-    return produitsDroitsTab;
+    return {"DroitsProduits":produitsDroitsTab};
 }
 
 function addClientAll(){
@@ -159,5 +159,5 @@ function addClientAll(){
         compteur++;
     }
     
-    return allClient;
+    return {"Clients":allClient};
 }
